@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7590ec3b-3875-4b49-829e-f2d1eefacaac" name="Default Changelist" comment="xxx">
+      <change beforePath="$PROJECT_DIR$/src/style/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/style/advantages.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/style/advantages.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/style/answer.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/style/answer.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/style/consultation.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/style/consultation.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/style/faq.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/style/faq.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/style/header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/style/header.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/style/home.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/style/home.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/style/question.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/style/question.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/style/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/style/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/style/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/style/style.scss" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="horizont24" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+        <option value="SCSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src/style" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="2goFp2ABJpuDzRu6visOAkv0kRQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="SCSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.updates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Desktop\MrEdil\horizont24\src\js" />
+      <recent name="C:\Users\User\Desktop\MrEdil\horizont24\pages\home" />
+      <recent name="C:\Users\user\Desktop\horizont24\pages" />
+      <recent name="C:\Users\user\Desktop\horizont24\src\style" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7590ec3b-3875-4b49-829e-f2d1eefacaac" name="Default Changelist" comment="" />
+      <created>1716356204173</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1716356204173</updated>
+      <workItem from="1716356211247" duration="8941000" />
+      <workItem from="1716367883302" duration="3504000" />
+      <workItem from="1716383097455" duration="949000" />
+      <workItem from="1716387603463" duration="9000" />
+      <workItem from="1716388175621" duration="422000" />
+      <workItem from="1716518212748" duration="8717000" />
+      <workItem from="1716528427616" duration="3793000" />
+      <workItem from="1716544613278" duration="7671000" />
+      <workItem from="1716552480994" duration="3870000" />
+      <workItem from="1716714726240" duration="50000" />
+      <workItem from="1716714851549" duration="8046000" />
+      <workItem from="1716787658549" duration="108000" />
+      <workItem from="1716788028557" duration="3095000" />
+      <workItem from="1716807734012" duration="11375000" />
+      <workItem from="1716822391418" duration="19000" />
+      <workItem from="1716979299086" duration="1203000" />
+      <workItem from="1716980541419" duration="2366000" />
+      <workItem from="1716982959469" duration="4747000" />
+      <workItem from="1716987769909" duration="464000" />
+      <workItem from="1716988435711" duration="118000" />
+      <workItem from="1716988643142" duration="116000" />
+      <workItem from="1716990533132" duration="3832000" />
+      <workItem from="1717161255200" duration="4251000" />
+      <workItem from="1717311927701" duration="8385000" />
+      <workItem from="1717320698499" duration="4030000" />
+      <workItem from="1717419083260" duration="2112000" />
+      <workItem from="1717421873076" duration="2464000" />
+      <workItem from="1719577990285" duration="243000" />
+      <workItem from="1719836395542" duration="354000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="580" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1717420716161">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1716714910390" />
+    <state x="580" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1717420716161" />
+    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1717314232757">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1717314232757" />
+    <state x="259" y="9" key="SettingsEditor" timestamp="1717421102399">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1717315237460" />
+    <state x="259" y="9" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1717421102399" />
+    <state x="65" y="64" width="1236" height="600" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1717322893495">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="64" width="1236" height="600" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1717322893495" />
+    <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1717162568622" />
+    <state x="361" y="160" width="640" height="352" key="com.intellij.ide.util.TipDialog" timestamp="1716528435912">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="361" y="160" width="640" height="352" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1716528435912" />
+    <state x="547" y="306" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1717314222068">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="547" y="306" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1717314222068" />
+    <state x="769" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1717163460329" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1716720020944">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1716720020944" />
+    <state x="443" y="158" width="672" height="475" key="search.everywhere.popup" timestamp="1716790467086">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="443" y="158" width="672" height="475" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1716790467086" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1716555932552" />
+  </component>
+</project>
